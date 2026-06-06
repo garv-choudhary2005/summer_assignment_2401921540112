@@ -1,2 +1,3 @@
-# DSA
-This is my DSA journey repository
+# Weekly LeetCode Solutions
+
+This repository contains my weekly LeetCode solutions in C++.
